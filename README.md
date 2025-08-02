@@ -26,6 +26,7 @@ It mimics early stage **protein function prediction workflows** often seen in **
 - **Sequence Length Distribution**  
   Most proteins are between **100–300 amino acids**, with a nearly uniform distribution.  
   This aligns with typical ranges for structured proteins.
+  
   <img width="548" height="313" alt="Sequence Length Distribution" src="https://github.com/user-attachments/assets/46ef5052-81f2-49ad-acce-0d13758899e8" />
 
 
